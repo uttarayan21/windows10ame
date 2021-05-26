@@ -10,7 +10,7 @@ arch=('x86_64')
 url="https://github.com/uttarayan21/windows10ame"
 license=('MIT')
 
-depends=('7z' 'git' 'curl')
+depends=('p7zip' 'git' 'curl')
 provides=("windows10ame=${pkgver}")
 conflicts=("windows10ame")
 makedepends=('git')
