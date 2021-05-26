@@ -18,7 +18,7 @@ title_bar() {
 }
 
 title_bar
-required="7z curl git find"
+required="7z curl git find sed awk"
 
 for r in $required;do
     if ! [ -n "$(which $r 2> /dev/null)" ];then # need the quotes
