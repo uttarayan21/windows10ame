@@ -1,7 +1,7 @@
 # Maintainer: uttarayan21 <uttarayan21@disroot.org>
 
 pkgname=windows10ame-git
-_pkgname=windows10ame
+_pkgname=ame
 pkgver=git
 pkgrel=1
 pkgdesc="Windows 10 amelioration script"
